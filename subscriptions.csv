@@ -1,0 +1,6 @@
+SubscriptionName,SubscriptionId,ResourceGroup
+subscription-01,a4c14f41-91fc-4de6-8609-051fb7923eaf,myrg-01
+subscription-02,d86ff64a-2383-4620-bb81-a4d1845cebe9,myrg-02
+subscription-03,78f8ff89-df7f-4b86-8d7d-0c7fcf439a9d,myrg-03
+subscription-04,881a75e4-1bb4-4a52-9645-69086be21e6c,myrg-04
+subscription-05,40e4e018-2d44-46e7-a7da-dd2f28329650,myrg-05
